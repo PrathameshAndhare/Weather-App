@@ -16,4 +16,4 @@
 ```
 # Screenhot
 
-![Screenshot]("file:///Users/prathameshandhare/Desktop/scrn.png")
+![Screenshot](scrn.png)
