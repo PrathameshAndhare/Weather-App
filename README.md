@@ -6,7 +6,7 @@
 
 
 > [!WARNING]
-> You need to get your own API key and replace it in index.js file on line 9 :
+> You need to get your own API key and replace it in index.js file on line 10 :
 
 
 
