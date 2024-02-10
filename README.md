@@ -14,6 +14,6 @@
 ```javascript
     const APIKey = 'Your API Key';
 ```
-# Screenhot
+# Screenshot
 
 ![Screenshot](scrn.png)
